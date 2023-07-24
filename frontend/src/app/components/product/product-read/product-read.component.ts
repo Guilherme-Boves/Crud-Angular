@@ -19,4 +19,5 @@ export class ProductReadComponent implements OnInit {
       this.products = products;
     });
   }
+  
 }
